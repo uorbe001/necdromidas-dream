@@ -1,0 +1,15 @@
+<scenery><posX>1223</posX><posY>1440</posY><name>fire</name></scenery>
+<scenery><posX>1310</posX><posY>1454</posY><name>house-human1</name></scenery>
+<scenery><posX>1210</posX><posY>1484</posY><name>house-human2</name></scenery>
+<scenery><posX>1309</posX><posY>1400</posY><name>windmill</name></scenery>
+<scenery><posX>1150</posX><posY>1294</posY><name>house-human3</name></scenery>
+<scenery><posX>1087</posX><posY>1485</posY><name>house-human1</name></scenery>
+<NPC><posX>1157</posX><posY>1393</posY><name>farmer</name><flip>0</flip></NPC>
+<NPC><posX>1115</posX><posY>1517</posY><name>farmer</name><flip>0</flip></NPC>
+<savepoint><posX>1250</posX><posY>1521</posY><name>SavePoint</name></savepoint>
+<scenery><posX>63</posX><posY>1316</posY><name>ruins1</name></scenery>
+<scenery><posX>224</posX><posY>1420</posY><name>ruins2</name></scenery>
+<scenery><posX>74</posX><posY>1544</posY><name>ruins3</name></scenery>
+<savepoint><posX>73</posX><posY>1466</posY><name>SavePoint</name></savepoint>
+
+
