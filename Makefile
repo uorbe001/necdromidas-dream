@@ -28,7 +28,7 @@ OBJECTS = button.o \
 SDL_LIBS = -L/usr/lib/x86_64-linux-gnu -lSDL -lSDL_gfx -lSDL_image -lSDL_mixer -lSDL_ttf -lfreetype
 CFLAGS = -c -g -Wall -I/usr/include/SDL -D_GNU_SOURCE=1 -D_REENTRANT
 CC = g++
-EXE = necromidas
+EXE = necdromidas
 
 # Headers dependencies
 ACTIVEHALO = include/activehalo.hpp \
